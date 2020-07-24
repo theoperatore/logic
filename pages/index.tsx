@@ -56,7 +56,7 @@ function Index() {
   }
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'space-around' }}>
+    <div>
       <div>
         <h1>Configure puzzle</h1>
         <div style={{ paddingBottom: '24px' }}>
